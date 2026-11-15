@@ -138,7 +138,7 @@ Replace `patch` with `minor` or `major` as appropriate.
 Publishing uses [npm OIDC Trusted Publishing](https://docs.npmjs.com/trusted-publishers) — no long-lived tokens to rotate.
 
 1. Go to your package on [npmjs.com](https://www.npmjs.com/package/n8n-nodes-html-readability) > **Settings** > **Trusted Publishers**
-2. Add a GitHub Actions publisher with repository `TechupBusiness/n8n-nodes-html-readability` and workflow `publish.yml`
+2. Add a GitHub Actions publisher with repository `xobit-net/n8n-nodes-html-readability` and workflow `publish.yml`
 
 ## Resources
 
